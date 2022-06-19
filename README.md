@@ -1,4 +1,5 @@
-# Repositorio do Desafio de Projeto sobre Git/GitHub da DIO
-Desafio de Projeto sobre Git/GitHub // Bootcamp DIO
+# Desafio de Projeto sobre Git/GitHub da DIO
+
+Repositorio Criado para o Desafio de Projeto  
 
 ## Links Uteis
